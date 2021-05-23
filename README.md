@@ -1,11 +1,20 @@
 ### Hi there 👋
 
-<!--
-**codergab/codergab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- - 🔭 I’m currently working on va -->
+- 🌱 I’m currently learning GOLang and DevOps to improve my skills and possibly become a SRE in the coming years
+- 👯 I’m looking to collaborate on Open Source Projects and
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about my development skills.
+- 📫 How to reach me: shoot me a mail codergab@gmail.com | Portfolio Design Coming Soon....
+- 😄 Pronouns: Him, He, His.
+- ⚡ Fun fact: I love to build
+
+
+<!-- **codergab/codergab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
