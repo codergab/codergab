@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on va -->
 - 🌱 I’m currently learning GOLang and DevOps to improve my skills and possibly become a SRE in the coming years
-- 👯 I’m looking to collaborate on Open Source Projects and
+- 👯 I’m looking to collaborate on Open Source Projects.
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about my development skills.
 - 📫 How to reach me: shoot me a mail codergab@gmail.com | Portfolio Design Coming Soon....
