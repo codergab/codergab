@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Open Source Projects.
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about my development skills.
-- 📫 How to reach me: shoot me a mail codergab@gmail.com | See Resume ([gabrieladewumi.com])
+- 📫 How to reach me: shoot me a mail codergab@gmail.com | See [Resume](https://gabrieladewumi.com)
 - 😄 Pronouns: Him, He, His.
 - ⚡ Fun fact: I love to build
 
