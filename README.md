@@ -1,7 +1,7 @@
 Hi there 👋
-🌱 I am NodeJS and GO Developer.
+🌱 I am JavaScript and GO Engineer.
 👯 I’m looking to collaborate on Open Source Projects and non-open source projects.
-💬 Ask me about my development skills.
+💬 Ask me about my engineering skills.
 📫 How to reach me: shoot me a mail codergab@gmail.com | [Personal Website](https://gabrieladewumi.com)
 😄 Pronouns: Him, He, His.
 ⚡ Fun fact: I love to build interesting products and ideas
